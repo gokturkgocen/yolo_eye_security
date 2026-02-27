@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# YOLO
+*.pt
+
+# Node
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Native
+/ios
+/android
+
+# OS
+.DS_Store
+Thumbs.db
